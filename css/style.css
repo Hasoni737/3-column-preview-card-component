@@ -16,6 +16,7 @@ body {
     display: flex;
     justify-content: center;
     border-radius: 10px;
+    margin-top: 20px;
 }
 .box {
     width: 13%;
